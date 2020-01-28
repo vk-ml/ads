@@ -23,5 +23,9 @@ for Display Advertising, ECML-PKDD 2016](http://www.saying.ren/slides/functional
 * [2011. Bid Landscape Forecasting in Online Ad Exchange Marketplace, KDD](http://www2009.eprints.org/50/1/p491.pdf)  
 С помощью градиентного бустинга
 
+* [2015. Predicting Winning Price in Real Time Bidding with
+Censored Data, KDD](http://wnzhang.net/share/rtb-papers/win-price-pred.pdf)   
+Решение с помощью регрессии
+
 * [2009. A Search-Based Method for Forecasting Ad Impression in Contextual Advertising, WWW](http://www2009.eprints.org/50/1/p491.pdf)  
 Подбор параметров распределения с помощью статических методов
