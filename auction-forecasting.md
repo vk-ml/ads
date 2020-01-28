@@ -17,8 +17,11 @@
 * [2019. Deep Landscape Forecasting for Real-time Bidding Advertising, KDD](https://arxiv.org/pdf/1905.03028.pdf)  
 С помощью нейронной сети
 
+* [2016. Functional Bid Landscape Forecasting
+for Display Advertising, ECML-PKDD 2016](http://www.saying.ren/slides/functional-bid-lands.pdf)  
+
 * [2011. Bid Landscape Forecasting in Online Ad Exchange Marketplace, KDD](http://www2009.eprints.org/50/1/p491.pdf)  
-С помощью деревьев
+С помощью градиентного бустинга
 
 * [2009. A Search-Based Method for Forecasting Ad Impression in Contextual Advertising, WWW](http://www2009.eprints.org/50/1/p491.pdf)  
 Подбор параметров распределения с помощью статических методов
