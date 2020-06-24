@@ -61,10 +61,7 @@
 ### [Прогнозирование распределения ставок на аукционе (Auction Forecasting)](https://github.com/vk-ml/ads/blob/master/auction-forecasting.md)
 
 
-### Автоматический расчет ставки (Autobidding)
-#### Постановка задачи
-#### Решения
-#### Статьи по теме
+### [Автоматический расчет ставки (Autobidding)](https://github.com/vk-ml/ads/blob/master/real-time-bidding.md)
 
 
 ### Наши выступления
