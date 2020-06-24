@@ -63,6 +63,7 @@
 
 ### [Автоматический расчет ставки (Autobidding)](https://github.com/vk-ml/ads/blob/master/real-time-bidding.md)
 
+### [Плавная открутка бюджета объявления (Smooth budget)](https://github.com/vk-ml/ads/blob/master/smooth-budget.md)
 
 ### Наши выступления
 [Еще один способ работать с большими категориальными фичами в градиентном бустинге](https://vk.com/video-133150806_456239019)
