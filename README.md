@@ -61,7 +61,7 @@
 
 ### [Плавная открутка бюджета объявления (Smooth budget)](https://github.com/vk-ml/ads/blob/master/smooth-budget.md)
 
-### [Оптимизация бюджета кампании из нескольких объявлений](https://github.com/vk-ml/ads/blob/master/campaign-budget-optimization.md)
+### [Оптимизация бюджета кампании из нескольких объявлений (Joint Bid / Budget Optimization)](https://github.com/vk-ml/ads/blob/master/campaign-budget-optimization.md)
 
 ### Наши выступления
 [Еще один способ работать с большими категориальными фичами в градиентном бустинге](https://vk.com/video-133150806_456239019)
