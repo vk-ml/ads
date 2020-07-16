@@ -54,16 +54,14 @@
 ### [Предсказание вероятности клика (CTR prediction)](https://github.com/vk-ml/ads/blob/master/ctr-prediction.md)
 
 ### Поиск похожих пользователей (lookalike)
-#### Постановка задачи
-#### Решения
-#### Статьи по теме
 
 ### [Прогнозирование распределения ставок на аукционе (Auction Forecasting)](https://github.com/vk-ml/ads/blob/master/auction-forecasting.md)
-
 
 ### [Автоматический расчет ставки (Autobidding)](https://github.com/vk-ml/ads/blob/master/real-time-bidding.md)
 
 ### [Плавная открутка бюджета объявления (Smooth budget)](https://github.com/vk-ml/ads/blob/master/smooth-budget.md)
+
+### [Оптимизация бюджета кампании из нескольких объявлений](https://github.com/vk-ml/ads/blob/master/campaign-budget-optimization.md)
 
 ### Наши выступления
 [Еще один способ работать с большими категориальными фичами в градиентном бустинге](https://vk.com/video-133150806_456239019)
